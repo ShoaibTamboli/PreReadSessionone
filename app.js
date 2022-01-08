@@ -10,6 +10,4 @@ function submit(){
 
 //Arrow Function
 
-let x=5;
-console.log(x);
 
